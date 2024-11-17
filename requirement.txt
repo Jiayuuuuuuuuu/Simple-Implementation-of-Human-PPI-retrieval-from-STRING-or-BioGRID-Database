@@ -1,5 +1,5 @@
-networkkx
+networkx
 requests
-matplotlin
+matplotlib
 pandas
 biopython
